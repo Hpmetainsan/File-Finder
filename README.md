@@ -1,11 +1,8 @@
-# FILE FINDER
+# FILE FINDER TOOL
 
-File Finder est un outil web intéressant, utilisant les ressources API de LeakIX pour la recherche des fichiers exposés internet.
+File Finder is an interesting web tool, using LeakIX API resources to search for exposed internet files. This tool often helped me when I was searching for certain files on the internet and checking if this site which contains this file was registered with a bug bunty program, it is really the perfect and interesting tool. 
 
-Cet outil m'aidait souvent lorsque je recherchais certains fichiers sur internet et vérifiais si ce site qui contient ce fichier était inscrit à un programme bug bunty , 
-c'est vraiment l'outil parfait et interssant. 
+the current version is a version is a graphical version so if you run it on terminal you will not have a good rendering, and it requires an internet connection to better connect to the internet and search files, so if you want it use you can opt for `REPLI` or your own web server which runs `PHP`. 
 
-la version actuelle est une version est une version graphique donc si vous l'exécutez sur terminal vous n'aurez pas un bon rendu , et celui nécessite une connexion internet pour mieux se connecter à internet et recherches des fichiers , donc si vous voulez l' utilisez vous pouvez opter pour `REPLI` ou 
-votre propre serveur web qui fait tourner `PHP`.
 >[!WARNING]
-> Je tiens à préciser que cet outil a été créé dans le cadre d'apprentissage et d'automatisation des actions , je ne suis donc pas responsable de sa mauvaise utilisation.
+> I would like to point out that this tool was created as part of learning and automating actions, so I am not responsible for its misuse.
